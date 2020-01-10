@@ -51,8 +51,7 @@
             }
             
             header nav ul li:hover a,
-            header nav ul li.active a,
-            b {
+            header nav ul li.active a {
                 color: #10c9c3;
             }
             
